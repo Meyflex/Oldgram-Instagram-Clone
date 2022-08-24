@@ -68,7 +68,7 @@ Pour mettre en place une copie locale et la faire fonctionner, suivez les étape
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Pouvoir les differentes photos des autres.
+Pouvoir voir et liker les differentes photos des autres utilisateurs.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
